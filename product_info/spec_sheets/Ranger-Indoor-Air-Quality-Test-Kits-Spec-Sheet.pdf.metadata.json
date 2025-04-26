@@ -1,0 +1,28 @@
+{
+  "title": "Indoor Air Quality Test Kits Specification Sheet",
+  "summary": "This document provides specifications for Aeroqual\u0027s portable indoor air quality test kits, including details on the included sensors, monitor capabilities, and environmental operating conditions.",
+  "document_type": "spec_sheet",
+  "tags": [
+    "indoor air quality",
+    "test kits",
+    "sensors",
+    "specifications"
+  ],
+  "product_family": "Portable",
+  "product": "Ranger",
+  "sensor_family": "Sensor Head",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PMresp",
+    "PM10",
+    "TSP",
+    "O3",
+    "CO2",
+    "CO",
+    "VOC"
+  ],
+  "file_version": "V4",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

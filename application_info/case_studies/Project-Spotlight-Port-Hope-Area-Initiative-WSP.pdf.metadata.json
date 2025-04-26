@@ -1,0 +1,22 @@
+{
+  "title": "Air monitoring at Canada\u0027s largest remediation project",
+  "summary": "Aeroqual provided continuous, real-time perimeter air monitoring for dust-generating operations during the Port Hope Area Initiative, a major environmental cleanup project in Canada. 50 Dust Sentry monitors and Aeroqual Cloud software were deployed to meet air quality objectives and safeguard public health.",
+  "document_type": "case_study",
+  "tags": [
+    "air monitoring",
+    "dust",
+    "remediation",
+    "environmental cleanup"
+  ],
+  "product_family": "Outdoor",
+  "product": "Dust Sentry",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "TSP",
+    "PM10",
+    "PM2.5"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

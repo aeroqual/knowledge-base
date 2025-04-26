@@ -1,0 +1,32 @@
+{
+  "title": "AQM 65 Specification Sheet",
+  "summary": "The AQM 65 is a fully integrated, temperature controlled air quality monitoring station that delivers \u0027near reference\u0027 levels of performance in real-time for multiple gases, particulates and environmental parameters. It can continuously measure air pollutants including O3, NO2, NOX, CO, SO2, VOC, H2S, CO2, CH4, TSP, PM10, PM2.5, PM1, noise and meteorological parameters.",
+  "document_type": "spec_sheet",
+  "tags": [
+    "air quality",
+    "monitoring",
+    "gases",
+    "particulates"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQM 65",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "O3",
+    "NO2",
+    "NOX",
+    "CO",
+    "SO2",
+    "VOC",
+    "H2S",
+    "CO2",
+    "CH4",
+    "TSP",
+    "PM10",
+    "PM2.5",
+    "PM1"
+  ],
+  "file_version": "v7",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

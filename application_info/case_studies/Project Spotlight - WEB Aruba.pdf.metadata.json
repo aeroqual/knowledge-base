@@ -1,0 +1,28 @@
+{
+  "title": "Air quality monitoring at power plant in Aruba",
+  "summary": "WEB Aruba NV, an electricity generation facility in the Caribbean, implemented continuous air quality monitoring using Aeroqual AQM 65 monitors to address worker health complaints from a neighboring container terminal. The monitors measured PM1, PM2.5, PM10, TSP, NO2, O3, SO2, CO, temperature, relative humidity, wind direction and speed, and rain.",
+  "document_type": "case_study",
+  "tags": [
+    "air quality",
+    "power plant",
+    "emissions",
+    "worker health",
+    "fenceline monitoring"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQM 65",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PM10",
+    "TSP",
+    "NO2",
+    "O3",
+    "SO2",
+    "CO"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

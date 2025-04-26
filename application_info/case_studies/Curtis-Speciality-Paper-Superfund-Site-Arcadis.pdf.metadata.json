@@ -1,0 +1,23 @@
+{
+  "title": "Curtis Speciality Paper Superfund Site Application",
+  "summary": "Real-time monitoring of dust and VOC vapors caused by demolition activities and excavation of contaminated soil at the Curtis Speciality Paper Superfund Site in Milford, New Jersey. Compliance reporting and mitigation controls using Aeroqual AQS 1 monitors and Aeroqual Cloud software.",
+  "document_type": "case_study",
+  "tags": [
+    "Superfund",
+    "remediation",
+    "PM10",
+    "PM2.5",
+    "VOCs"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM10",
+    "PM2.5",
+    "VOCs"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

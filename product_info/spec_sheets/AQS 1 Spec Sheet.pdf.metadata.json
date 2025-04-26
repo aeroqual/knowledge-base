@@ -1,0 +1,32 @@
+{
+  "title": "AQS 1 Specification Sheet: Outdoor Particulate and Gas Monitor",
+  "summary": "The AQS 1 is an outdoor real-time monitor designed for environmental professionals to measure particulates (PM1, PM2.5, PM4, PM10, TSP) and up to three gases (O3, NO2, CO, SO2, H2S, CH4, VOCs) simultaneously. It is purpose-built for outdoor use with features like remote communications and automated flow control.",
+  "document_type": "spec_sheet",
+  "tags": [
+    "outdoor",
+    "particulate",
+    "gas",
+    "real-time",
+    "monitoring"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PM4",
+    "PM10",
+    "TSP",
+    "O3",
+    "NO2",
+    "CO",
+    "SO2",
+    "H2S",
+    "CH4",
+    "VOC"
+  ],
+  "file_version": "V15",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Winterization Kit Installation and Setup for Aeroqual Dust Sentry and AQS",
+  "summary": "This document provides instructions for installing the Winterization Kit on Aeroqual Dust Sentry and AQS instruments to extend their lower operating temperature range from -10\u00B0C to -40\u00B0C. It covers installing the heater module, insulation jacket, mounting brackets, and rewiring for battery/solar power.",
+  "document_type": "installation_guide",
+  "tags": [
+    "winterization",
+    "low temperature",
+    "insulation",
+    "heater",
+    "mounting"
+  ],
+  "product_family": "Outdoor",
+  "product": "Dust Sentry, AQS",
+  "sensor_family": "Sensor Module",
+  "measurements": [],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

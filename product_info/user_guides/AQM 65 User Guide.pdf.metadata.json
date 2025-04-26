@@ -1,0 +1,25 @@
+{
+  "title": "Aeroqual AQM 65 User Guide",
+  "summary": "This document provides instructions for setting up, operating, and maintaining the Aeroqual AQM 65 outdoor air quality monitoring system. It covers details on the gas and particulate matter sensor modules, thermal management, software interfaces, maintenance procedures, and troubleshooting.",
+  "document_type": "user_manual",
+  "tags": [
+    "air quality",
+    "outdoor",
+    "monitoring",
+    "sensors",
+    "maintenance"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQM 65",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "NO2",
+    "O3",
+    "PM2.5",
+    "PM10",
+    "TSP"
+  ],
+  "file_version": "v2.1",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

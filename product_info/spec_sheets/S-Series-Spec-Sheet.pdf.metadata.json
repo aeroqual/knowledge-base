@@ -1,0 +1,18 @@
+{
+  "title": "S Series Specification Sheet: Portable Air Quality Monitors",
+  "summary": "The S Series portable air quality monitors from Aeroqual are handheld devices designed for real-time measurement of gases and particulates in ambient air. They offer interchangeable sensor heads for different pollutants and can be configured for various applications like environmental assessments, indoor air quality testing, and personal exposure monitoring.",
+  "document_type": "spec_sheet",
+  "tags": [
+    "portable",
+    "air quality",
+    "gas sensors",
+    "particulate sensors"
+  ],
+  "product_family": "Portable",
+  "product": "Series 300, Series 500",
+  "sensor_family": "Sensor Head",
+  "measurements": [],
+  "file_version": "V5",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

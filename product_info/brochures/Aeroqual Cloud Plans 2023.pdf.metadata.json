@@ -1,0 +1,18 @@
+{
+  "title": "Aeroqual Cloud Plans for Ranger Instruments",
+  "summary": "This document outlines the features and capabilities of the Aeroqual Cloud software plans (Basic, Optimize, and Plus) for managing and monitoring data from Ranger air quality monitoring instruments.",
+  "document_type": "product_brochure",
+  "tags": [
+    "Aeroqual Cloud",
+    "data management",
+    "remote monitoring",
+    "Ranger"
+  ],
+  "product_family": "Portable",
+  "product": "Ranger",
+  "sensor_family": "Sensor Head",
+  "measurements": [],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

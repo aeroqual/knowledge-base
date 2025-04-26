@@ -1,0 +1,25 @@
+{
+  "title": "PCX Module Technical Guide",
+  "summary": "This document provides technical details and guidance for the PCX Module, including diagnostic data channels, module settings, zero process, heater control, flow and pump control, status LED, troubleshooting, and firmware revision notes.",
+  "document_type": "user_manual",
+  "tags": [
+    "PCX Module",
+    "Particle Sensor",
+    "Diagnostics",
+    "Settings",
+    "Calibration"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PM4",
+    "PM10",
+    "TSP"
+  ],
+  "file_version": "v1.0",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Respiratory Health in the Equine Industry",
+  "summary": "A case study on using the Aeroqual Ranger to monitor and mitigate dust levels in indoor horse arenas, demonstrating strategies to improve air quality and respiratory health for horses and riders.",
+  "document_type": "case_study",
+  "tags": [
+    "indoor air quality",
+    "particulate matter",
+    "PM2.5",
+    "PM10",
+    "dust mitigation"
+  ],
+  "product_family": "Portable",
+  "product": "Ranger",
+  "sensor_family": "Sensor Head",
+  "measurements": [
+    "PM2.5",
+    "PM10"
+  ],
+  "file_version": null,
+  "document_source": "customer",
+  "canonical_sensor_specs": false
+}

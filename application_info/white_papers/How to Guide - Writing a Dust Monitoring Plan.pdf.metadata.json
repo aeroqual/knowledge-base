@@ -1,0 +1,22 @@
+{
+  "title": "How To Guide: Writing a Dust Monitoring Plan",
+  "summary": "This document provides guidance on creating an effective dust monitoring plan for construction and remediation projects to ensure compliance with regulations, mitigate emissions, and protect workers and the community.",
+  "document_type": "user_manual",
+  "tags": [
+    "dust monitoring",
+    "construction",
+    "remediation",
+    "emissions",
+    "planning"
+  ],
+  "product_family": "Outdoor",
+  "product": "Dust Sentry",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM2.5",
+    "PM10"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

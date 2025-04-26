@@ -1,0 +1,38 @@
+{
+  "title": "Aeroqual Ranger Dust and Gas Measurement Specification Sheet",
+  "summary": "The Aeroqual Ranger is a handheld monitor for measuring particulate matter and gases, suitable for environmental, indoor air quality, and industrial hygiene applications. It features swappable sensor heads, long battery life, Wi-Fi connectivity, and data logging capabilities.",
+  "document_type": "spec_sheet",
+  "tags": [
+    "Ranger",
+    "handheld",
+    "particulate matter",
+    "gases",
+    "air quality"
+  ],
+  "product_family": "Portable",
+  "product": "Ranger",
+  "sensor_family": "Sensor Head",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PMrsp",
+    "PM10",
+    "TSP",
+    "VOC",
+    "O3",
+    "NO2",
+    "CO",
+    "CO2",
+    "SO2",
+    "CH2O",
+    "NH3",
+    "Cl2",
+    "CH4",
+    "H2",
+    "NMHC",
+    "C2Cl4"
+  ],
+  "file_version": "V7",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

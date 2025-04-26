@@ -1,0 +1,29 @@
+{
+  "title": "Aeroqual Module Technical Performance Guide",
+  "summary": "This document provides technical performance details for Aeroqual\u0027s popular sensor modules used in air quality monitoring systems, including measurement principles, specifications, performance data, field test results, calibration information, interferences, and component lifetimes.",
+  "document_type": "data_sheet",
+  "tags": [
+    "air quality",
+    "sensors",
+    "modules",
+    "specifications",
+    "performance"
+  ],
+  "product_family": "Outdoor",
+  "product": null,
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "H2S",
+    "NO2",
+    "VOCs",
+    "CO",
+    "BTEX",
+    "PM",
+    "O3",
+    "SO2",
+    "CH4"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

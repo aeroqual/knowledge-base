@@ -1,0 +1,21 @@
+{
+  "title": "Span stability of the Aeroqual VOC Module",
+  "summary": "This document demonstrates the span stability of the Aeroqual VOC module and provides evidence for Aeroqual\u0027s recommended span calibration interval of one month for reliable VOC measurements in the field.",
+  "document_type": "tech_note",
+  "tags": [
+    "VOC",
+    "sensor",
+    "calibration",
+    "stability",
+    "isobutylene"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "VOCs"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Expanding real-time air quality assessment on a tight budget",
+  "summary": "A case study describing how AECOM used an Aeroqual AQS 1 monitor to cost-effectively collect real-time air quality data for an Environmental Impact Assessment of a proposed childcare facility near industrial and traffic sources.",
+  "document_type": "case_study",
+  "tags": [
+    "AQS 1",
+    "PM2.5",
+    "NO2",
+    "O3",
+    "EIA"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM2.5",
+    "NO2",
+    "O3"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

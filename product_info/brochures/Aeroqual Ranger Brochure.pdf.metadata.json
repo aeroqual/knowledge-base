@@ -1,0 +1,25 @@
+{
+  "title": "Aeroqual Ranger Portable Air Quality Monitor",
+  "summary": "The Aeroqual Ranger is a real-time handheld air quality monitor with interchangeable gas and PM sensor heads, long battery life, and Wi-Fi connectivity for remote monitoring and data transfer.",
+  "document_type": "product_brochure",
+  "tags": [
+    "portable",
+    "air quality",
+    "monitoring",
+    "sensors",
+    "handheld"
+  ],
+  "product_family": "Portable",
+  "product": "Ranger",
+  "sensor_family": "Sensor Head",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PMrsp",
+    "PM10",
+    "TSP"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}

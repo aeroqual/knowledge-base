@@ -1,0 +1,22 @@
+{
+  "title": "Building a healthier Brooklyn: Aeroqual \u0026 Langan collaborate",
+  "summary": "Aeroqual partnered with Langan Engineering \u0026 Environmental for air monitoring on the Alafia Development project in Brooklyn, NY. Langan used Aeroqual\u0027s AQS monitors and software to comply with DER-10 CAMP requirements for reporting and controlling PM10, VOC, and methane emissions during the $1.2 billion multi-phase construction project.",
+  "document_type": "case_study",
+  "tags": [
+    "construction",
+    "air monitoring",
+    "compliance",
+    "DER-10"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM10",
+    "VOCs",
+    "Methane"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": false
+}

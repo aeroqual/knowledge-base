@@ -1,0 +1,23 @@
+{
+  "title": "Field Trial of Aeroqual AQS 1 in Calgary",
+  "summary": "A 3-month co-location trial of an Aeroqual AQS 1 at a reference monitoring station was carried out in Calgary, Alberta, Canada to measure ozone, nitrogen dioxide, and PM2.5. The report details the results of the trial, analyzing the AQS 1 measurements against the reference station using ASTM D8406 metrics and calculating the Canadian Air Quality Health Index (AQHI) for comparison.",
+  "document_type": "case_study",
+  "tags": [
+    "AQS 1",
+    "field trial",
+    "co-location",
+    "AQHI",
+    "Calgary"
+  ],
+  "product_family": "Outdoor",
+  "product": "AQS 1",
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "O3",
+    "NO2",
+    "PM2.5"
+  ],
+  "file_version": null,
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
+}
