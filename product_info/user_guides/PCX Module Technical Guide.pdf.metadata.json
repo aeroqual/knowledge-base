@@ -10,16 +10,19 @@
     "Calibration"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "PCX Module"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "PM1",
     "PM2.5",
     "PM4",
     "PM10",
-    "TSP"
+    "TSP",
+    "Particle Count"
   ],
-  "file_version": "v1.0",
+  "file_version": "v1.2",
   "document_source": "Aeroqual",
   "canonical_sensor_specs": true
 }

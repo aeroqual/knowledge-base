@@ -1,16 +1,17 @@
 {
-  "title": "Montana Pole and Treating Plant Superfund Site Case Study",
-  "summary": "Tetra Tech deployed Aeroqual AQS 1 monitors and Aeroqual Cloud software to track airborne dust, VOCs, and wind shifts during remediation of a contaminated site in Butte, Montana. This enabled effective dust suppression strategies to protect worker health and the local community.",
+  "title": "Montana Pole and Treating Plant Superfund Site Remediation",
+  "summary": "Tetra Tech deployed Aeroqual AQS 1 monitors and Aeroqual Cloud software to track airborne dust, VOCs, and wind shifts during bioremediation activities at a Superfund site in Butte, Montana. This enabled effective dust suppression strategies to protect worker health and the local community.",
   "document_type": "case_study",
   "tags": [
     "air quality monitoring",
     "dust",
     "VOCs",
-    "remediation",
-    "superfund site"
+    "remediation"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "PM10",

@@ -1,8 +1,41 @@
 {
-	"metadataAttributes": {
-		"document_type": "comparison_table",
-		"product_families": "portable,fixed",
-		"product_lines": "Ranger,S200,S300,S500,AQM 65,AQS 1,Dust Sentry",
-		"source": "Aeroqual"
-	}
+  "title": "Aeroqual Product Comparison Table",
+  "summary": "This document provides a detailed comparison of the key features and specifications across Aeroqual\u0027s range of outdoor, indoor, and portable air quality monitoring products.",
+  "document_type": "product_brochure",
+  "tags": [
+    "air quality",
+    "monitoring",
+    "specifications",
+    "product comparison",
+    "sensors"
+  ],
+  "product_family": "Outdoor",
+  "products": [
+    "AQM 65",
+    "AQS 1",
+    "Dust Sentry",
+    "Ranger"
+  ],
+  "sensor_family": "Sensor Module",
+  "measurements": [
+    "PM1",
+    "PM2.5",
+    "PM10",
+    "TSP",
+    "O3",
+    "NO2",
+    "NOX",
+    "CO",
+    "SO2",
+    "VOC",
+    "H2S",
+    "CO2",
+    "CH4",
+    "BTEX",
+    "Noise",
+    "Meteorological"
+  ],
+  "file_version": "v.3",
+  "document_source": "Aeroqual",
+  "canonical_sensor_specs": true
 }

@@ -1,15 +1,17 @@
 {
   "title": "Real-time dust monitoring for worker safety",
-  "summary": "HaS Expertise used the Aeroqual Ranger to provide real-time monitoring of respirable dust to estimate potential exposure to crystalline silica during construction of the City Rail Link project in Auckland, New Zealand. The Ranger enabled quick response to site conditions and same-day recommendations, unlike traditional methods with long delays.",
+  "summary": "HaS Expertise used the Aeroqual Ranger to provide real-time monitoring of respirable dust for worker exposure to crystalline silica during construction of the City Rail Link project in Auckland, New Zealand. The Ranger\u0027s data connectivity enabled quick response to site conditions.",
   "document_type": "case_study",
   "tags": [
     "dust monitoring",
     "worker safety",
     "construction",
-    "silica exposure"
+    "crystalline silica"
   ],
   "product_family": "Portable",
-  "product": "Ranger",
+  "products": [
+    "Ranger"
+  ],
   "sensor_family": "Sensor Head",
   "measurements": [
     "PM2.5",

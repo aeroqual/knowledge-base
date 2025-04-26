@@ -10,7 +10,12 @@
     "performance"
   ],
   "product_family": "Outdoor",
-  "product": null,
+  "products": [
+    "AQM 65",
+    "AQS 1",
+    "Dust Sentry",
+    "Dust Profiler"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "H2S",

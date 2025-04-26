@@ -1,19 +1,24 @@
 {
   "title": "Aeroqual Dust Sentry and AQS User Guide",
-  "summary": "This document provides user instructions for operating the Aeroqual Dust Sentry and AQS 1 outdoor air quality monitoring systems. It covers installation, maintenance, calibration, and troubleshooting procedures.",
+  "summary": "This document provides instructions for operating and maintaining the Aeroqual Dust Sentry and AQS outdoor air monitoring systems. It covers topics such as installation, calibration, troubleshooting, and specifications.",
   "document_type": "user_manual",
   "tags": [
-    "Dust Sentry",
-    "AQS 1",
+    "air monitoring",
     "outdoor",
-    "air quality"
+    "dust",
+    "particulate matter",
+    "gas"
   ],
   "product_family": "Outdoor",
-  "product": "Dust Sentry, AQS 1",
+  "products": [
+    "Dust Sentry",
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "NO2",
-    "VOC"
+    "VOC",
+    "PCX"
   ],
   "file_version": "v10",
   "document_source": "Aeroqual",

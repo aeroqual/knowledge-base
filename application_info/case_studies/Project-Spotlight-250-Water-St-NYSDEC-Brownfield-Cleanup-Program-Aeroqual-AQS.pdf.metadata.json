@@ -1,21 +1,23 @@
 {
-  "title": "250 Water Street Brownfield Cleanup Program Case Study",
-  "summary": "Aeroqual aided Langan in maintaining compliance with the New York State Department of Environmental Conservation (DEC) and reassured the community during challenging remediation at 250 Water Street, a 1.1-acre brownfield in Manhattan\u0027s Seaport Historic District.",
+  "title": "Aeroqual AQS 1 CAMP Monitoring at 250 Water Street",
+  "summary": "Aeroqual aided Langan in maintaining compliance with the New York State Department of Environmental Conservation (DEC) and reassured the community during challenging remediation at 250 Water Street, a 1.1-acre brownfield in Manhattan\u0027s Seaport Historic District. Ten Aeroqual AQS 1 air quality stations integrated with Jerome analyzers monitored PM10, VOCs, mercury vapor, and wind data.",
   "document_type": "case_study",
   "tags": [
-    "Brownfield",
-    "Remediation",
+    "AQS 1",
     "CAMP",
-    "PM10",
-    "VOCs"
+    "brownfield",
+    "remediation"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "PM10",
     "VOCs",
-    "mercury vapor"
+    "mercury vapor",
+    "wind data"
   ],
   "file_version": null,
   "document_source": "Aeroqual",

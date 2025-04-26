@@ -10,7 +10,9 @@
     "isobutylene"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "VOCs"

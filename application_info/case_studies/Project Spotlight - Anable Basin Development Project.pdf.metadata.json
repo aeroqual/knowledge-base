@@ -1,16 +1,17 @@
 {
-  "title": "Anable Basin Development Project Site Remediation Case Study",
-  "summary": "Langan Engineering used Aeroqual AQS 1 monitors and OneView software for continuous perimeter air monitoring during a waterfront bulkhead stabilization project in New York. The automated reporting facilitated regulatory compliance.",
+  "title": "Anable Basin Development Project Site Remediation",
+  "summary": "Langan Engineering used Aeroqual AQS 1 monitors and OneView software for continuous perimeter air monitoring during stabilization of a contaminated bulkhead in Long Island City, NY as part of a brownfield cleanup project.",
   "document_type": "case_study",
   "tags": [
     "air monitoring",
-    "remediation",
-    "environmental consulting",
-    "compliance",
-    "reporting"
+    "environmental remediation",
+    "brownfield",
+    "construction"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "VOCs",

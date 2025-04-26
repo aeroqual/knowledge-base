@@ -1,15 +1,19 @@
 {
   "title": "PDICore Power Data Interface for Aeroqual Monitors",
-  "summary": "The PDICore is an upgraded Power Data Interface for Aeroqual\u0027s Dust Sentry and AQS platforms, adding new functionality like input/output controls, DC/DC converter, battery monitoring, and safe shutdown capabilities.",
+  "summary": "The PDICore is an upgraded Power Data Interface for Aeroqual\u0027s Dust Sentry and AQS air monitoring platforms, adding new functionality like input/output controls, DC/DC converter, battery monitoring, and safe shutdown capabilities.",
   "document_type": "data_sheet",
   "tags": [
     "PDICore",
     "Power Interface",
+    "Air Monitoring",
     "Dust Sentry",
     "AQS"
   ],
   "product_family": "Outdoor",
-  "product": "Dust Sentry, AQS 1",
+  "products": [
+    "Dust Sentry",
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [],
   "file_version": null,

@@ -1,18 +1,24 @@
 {
   "title": "Air Monitoring Compliance on New York DER-10 Remediation Sites",
-  "summary": "This document provides an overview of technologies and methods for complying with the Health and Safety Plan (HASP) and Community Air Monitoring Plan (CAMP) components of the New York State Department of Environmental Conservation\u0027s DER-10 Technical Guidance for Site Investigation and Remediation during environmental site remediation projects.",
+  "summary": "This document provides an overview of technologies and methods for complying with the Health and Safety Plan (HASP) and Community Air Monitoring Plan (CAMP) components of the New York State Department of Environmental Conservation\u0027s DER-10 Technical Guidance for Site Investigation and Remediation.",
   "document_type": "case_study",
   "tags": [
     "air monitoring",
     "remediation",
     "DER-10",
-    "compliance",
-    "New York"
+    "New York",
+    "compliance"
   ],
   "product_family": "Outdoor",
-  "product": null,
+  "products": [
+    "AQM 65",
+    "Dust Sentry"
+  ],
   "sensor_family": "Sensor Module",
-  "measurements": [],
+  "measurements": [
+    "PM2.5",
+    "PM10"
+  ],
   "file_version": null,
   "document_source": "Aeroqual",
   "canonical_sensor_specs": false

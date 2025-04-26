@@ -1,19 +1,23 @@
 {
   "title": "Air monitoring for California\u0027s largest remediation project",
-  "summary": "Aeroqual provided air monitoring technology for the Exide Residential Cleanup project in Vernon, CA, overseen by the Department of Toxic Substances Control. Parsons deployed over 40 Aeroqual Dust Sentry monitors with wind sensors to monitor PM10 in real-time and comply with South Coast AQMD regulations during the lead-contaminated soil removal from over 1,000 residential properties.",
+  "summary": "Aeroqual provided air monitoring technology for the Exide Residential Cleanup project in Vernon, CA, overseen by the Department of Toxic Substances Control (DTSC). Parsons Corporation used over 40 Aeroqual Dust Sentry monitors with wind sensors to monitor PM10 in real-time and comply with South Coast AQMD regulations during the lead-contaminated soil removal from over 1,000 residential properties.",
   "document_type": "case_study",
   "tags": [
     "air monitoring",
-    "remediation",
     "PM10",
+    "remediation",
     "dust",
     "compliance"
   ],
   "product_family": "Outdoor",
-  "product": "Dust Sentry",
+  "products": [
+    "Dust Sentry"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
-    "PM10"
+    "PM10",
+    "Wind Speed",
+    "Wind Direction"
   ],
   "file_version": null,
   "document_source": "Aeroqual",

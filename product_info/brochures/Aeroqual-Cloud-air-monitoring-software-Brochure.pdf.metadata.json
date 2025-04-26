@@ -1,16 +1,16 @@
 {
-  "title": "Aeroqual Cloud: Actionable Data for Air Monitoring",
-  "summary": "Aeroqual Cloud is a cloud-based data management platform that provides reliable air monitoring data, real-time alerts, remote control, and easy integration with third-party devices. It offers features like customizable branding, data sharing, and a mobile app.",
+  "title": "Aeroqual Cloud data management platform",
+  "summary": "Aeroqual Cloud is a cloud-based data management platform for air monitoring projects, offering features like remote control, alerts, data integration, and sharing capabilities.",
   "document_type": "product_brochure",
   "tags": [
-    "air monitoring",
-    "cloud platform",
+    "cloud",
     "data management",
+    "air monitoring",
     "remote control",
-    "integration"
+    "alerts"
   ],
-  "product_family": null,
-  "product": null,
+  "product_family": "Outdoor",
+  "products": [],
   "sensor_family": null,
   "measurements": [],
   "file_version": null,

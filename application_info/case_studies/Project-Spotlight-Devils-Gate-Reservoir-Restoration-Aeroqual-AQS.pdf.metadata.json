@@ -1,25 +1,27 @@
 {
   "title": "Devil\u0027s Gate Reservoir Restoration Project Case Study",
-  "summary": "Tetra Tech and CET Engineering operated an air monitoring network of Aeroqual AQS 1 stations for compliance purposes and to monitor potential air quality impacts during a reservoir restoration project in Pasadena, CA. The project involved removing 1.3 million cubic yards of wildfire debris sediment.",
+  "summary": "Tetra Tech and CET Engineering operated an air monitoring network of Aeroqual AQS 1 stations for compliance purposes and to monitor potential air quality impacts during a reservoir restoration project by Los Angeles County Public Works. The project involved removing wildfire debris sediment and tracking PM10, PM2.5, NO2, ozone, and black carbon emissions.",
   "document_type": "case_study",
   "tags": [
     "air monitoring",
-    "dust emissions",
     "compliance",
-    "community",
-    "reservoir restoration"
+    "dust emissions",
+    "reservoir restoration",
+    "community engagement"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "PM10",
     "PM2.5",
     "NO2",
     "O3",
-    "BC"
+    "Black Carbon"
   ],
   "file_version": null,
   "document_source": "Aeroqual",
-  "canonical_sensor_specs": false
+  "canonical_sensor_specs": true
 }

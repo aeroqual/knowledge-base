@@ -1,6 +1,6 @@
 {
   "title": "Outdoor Air Quality Test Kits Specification Sheet",
-  "summary": "This document provides specifications for Aeroqual\u0027s portable outdoor air quality monitoring kits, including the Ranger monitor and various gas and particulate sensors. It covers measurement ranges, accuracy, environmental conditions, data logging, and compliance details.",
+  "summary": "This document provides specifications for Aeroqual\u0027s portable outdoor air quality monitoring kits, including the Ranger monitor and various sensor options for measuring particulates, gases like NO2, O3, CO, and VOCs. It covers two kit configurations - the Starter and Pro versions.",
   "document_type": "spec_sheet",
   "tags": [
     "outdoor",
@@ -10,7 +10,9 @@
     "sensors"
   ],
   "product_family": "Portable",
-  "product": "Ranger",
+  "products": [
+    "Ranger"
+  ],
   "sensor_family": "Sensor Head",
   "measurements": [
     "PM2.5",

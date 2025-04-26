@@ -1,17 +1,21 @@
 {
   "title": "Aeroqual OneView Air Monitoring Software",
-  "summary": "Aeroqual OneView is an air monitoring software solution for environmental consultants that provides real-time data access, alerts, and automated reporting tailored to specific regulations.",
+  "summary": "Aeroqual OneView is an air monitoring software solution for environmental consultants that provides real-time data access, alerts, automated regulatory compliance calculations, and comprehensive reporting features.",
   "document_type": "product_brochure",
   "tags": [
     "air monitoring",
     "software",
-    "environmental compliance",
-    "reporting"
+    "regulatory compliance",
+    "reporting",
+    "alerts"
   ],
   "product_family": "Outdoor",
-  "product": null,
-  "sensor_family": "Sensor Module",
-  "measurements": [],
+  "products": [],
+  "sensor_family": null,
+  "measurements": [
+    "PM2.5",
+    "PM10"
+  ],
   "file_version": null,
   "document_source": "Aeroqual",
   "canonical_sensor_specs": false

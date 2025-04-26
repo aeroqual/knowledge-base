@@ -1,6 +1,6 @@
 {
   "title": "Virtual Calibration Method for Air Quality Sensors",
-  "summary": "Aeroqual has developed a virtual, continuous calibration technique for air quality sensor networks that derives slope and offset estimates by matching sensor data distributions to reference monitor values based on proximity and land use similarity. The method is sensor agnostic and reliable for urban, rural, and industrial networks.",
+  "summary": "Aeroqual has developed a virtual, continuous calibration technique for air quality sensor networks that derives slope and offset estimates by matching the distribution of recent sensor data to values from reference monitors based on proximity and land use similarity. The method is sensor agnostic and reliable for urban, rural, and industrial networks.",
   "document_type": "tech_note",
   "tags": [
     "calibration",
@@ -9,9 +9,9 @@
     "networks",
     "virtual"
   ],
-  "product_family": null,
-  "product": null,
-  "sensor_family": null,
+  "product_family": "Portable",
+  "products": [],
+  "sensor_family": "Sensor Head",
   "measurements": [],
   "file_version": null,
   "document_source": "Aeroqual",

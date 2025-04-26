@@ -9,7 +9,9 @@
     "specifications"
   ],
   "product_family": "Portable",
-  "product": "Ranger",
+  "products": [
+    "Ranger"
+  ],
   "sensor_family": "Sensor Head",
   "measurements": [
     "PM1",

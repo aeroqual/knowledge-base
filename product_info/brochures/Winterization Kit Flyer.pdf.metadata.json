@@ -1,17 +1,19 @@
 {
   "title": "AQS 1 / Dust Sentry Winterization Kits",
-  "summary": "The Winterization Kit for the AQS 1 and Dust Sentry extends the instrument\u0027s operating range allowing users to continue measuring in cold temperatures while maintaining data quality and reliability. It includes a silicone insulation jacket, heater module, and extended mounting brackets.",
+  "summary": "The Winterization Kit extends the operating range of the AQS 1 and Dust Sentry instruments, allowing measurements in cold temperatures while maintaining data quality. It includes a silicone insulation jacket, heater module, and extended mounting brackets.",
   "document_type": "product_brochure",
   "tags": [
     "winterization",
     "cold weather",
     "insulation",
     "heater",
+    "mounting"
+  ],
+  "product_family": "Outdoor",
+  "products": [
     "AQS 1",
     "Dust Sentry"
   ],
-  "product_family": "Outdoor",
-  "product": "AQS 1, Dust Sentry",
   "sensor_family": "Sensor Module",
   "measurements": [],
   "file_version": null,

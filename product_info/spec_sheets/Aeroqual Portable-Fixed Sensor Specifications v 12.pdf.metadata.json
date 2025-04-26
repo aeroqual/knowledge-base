@@ -1,20 +1,19 @@
 {
-  "title": "Aeroqual Sensor Specifications",
-  "summary": "This document appears to contain technical specifications for Aeroqual sensors, potentially related to particulate matter measurements.",
+  "title": "Aeroqual Sensor Specifications for PM2.5 and PMresp",
+  "summary": "This document appears to be a technical data sheet providing specifications for PM2.5 and PMresp sensors from Aeroqual.",
   "document_type": "data_sheet",
   "tags": [
-    "sensors",
-    "specifications",
-    "particulate matter",
     "PM2.5",
-    "PM10"
+    "PMresp",
+    "sensor",
+    "specifications"
   ],
   "product_family": "Portable",
-  "product": null,
+  "products": [],
   "sensor_family": "Sensor Head",
   "measurements": [
     "PM2.5",
-    "PM10"
+    "PMresp"
   ],
   "file_version": "V12",
   "document_source": "Aeroqual",

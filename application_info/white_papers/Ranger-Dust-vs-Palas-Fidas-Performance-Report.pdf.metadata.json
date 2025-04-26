@@ -1,16 +1,18 @@
 {
   "title": "Ranger Dust vs Palas Fidas 200 Performance Report",
-  "summary": "A technical report comparing the performance of the Aeroqual Ranger Dust handheld dust monitor against the reference Palas Fidas 200 instrument using ISO test dust.",
+  "summary": "This report compares the performance of the Aeroqual Ranger Dust handheld dust monitor against the EN16450 certified Palas Fidas 200 reference instrument using ISO 12103 A1 ultrafine test dust.",
   "document_type": "tech_note",
   "tags": [
     "Ranger",
-    "dust",
+    "Dust",
     "PM",
-    "performance",
-    "comparison"
+    "Performance",
+    "Comparison"
   ],
   "product_family": "Portable",
-  "product": "Ranger",
+  "products": [
+    "Ranger"
+  ],
   "sensor_family": "Sensor Head",
   "measurements": [
     "PM1",
@@ -21,5 +23,5 @@
   ],
   "file_version": null,
   "document_source": "Aeroqual",
-  "canonical_sensor_specs": false
+  "canonical_sensor_specs": true
 }

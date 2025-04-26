@@ -1,15 +1,17 @@
 {
   "title": "Urban Air Monitoring in Breda Community Air Monitoring",
-  "summary": "Aeroqual\u0027s AQS 1 was used to monitor air quality and noise levels during sewer replacement work in the Dutch municipality of Breda, ensuring public health and regulatory compliance.",
+  "summary": "Aeroqual\u0027s AQS 1 was used to monitor air quality and noise levels during a sewerage system replacement project in Breda, Netherlands. Real-time data and alerts helped ensure public safety and regulatory compliance.",
   "document_type": "case_study",
   "tags": [
     "air quality",
-    "urban monitoring",
+    "noise monitoring",
     "construction",
-    "public health"
+    "urban"
   ],
   "product_family": "Outdoor",
-  "product": "AQS 1",
+  "products": [
+    "AQS 1"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
     "PM1",
@@ -21,5 +23,5 @@
   ],
   "file_version": null,
   "document_source": "Aeroqual",
-  "canonical_sensor_specs": false
+  "canonical_sensor_specs": true
 }

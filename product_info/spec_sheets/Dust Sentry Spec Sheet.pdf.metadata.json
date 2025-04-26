@@ -1,6 +1,6 @@
 {
-  "title": "Dust Sentry Specification Sheet",
-  "summary": "The Dust Sentry is a near reference real-time particle monitor designed for environmental professionals who need to monitor and manage multiple outdoor dust and particle size fractions simultaneously in real-time. It offers simultaneous measurement of TSP, PM10, PM4, PM2.5 and PM1 with the PCX module or one PM fraction with the nephelometer module.",
+  "title": "Dust Sentry Specification Sheet: Near reference real-time particle monitor",
+  "summary": "The Dust Sentry is designed for environmental professionals who need to monitor and manage multiple outdoor dust and particle size fractions simultaneously in real-time. It offers measurement of TSP, PM10, PM4, PM2.5 and PM1 with the PCX module or one PM fraction with the nephelometer module. It is MCERTS certified and South Coast AQMD 1466 pre-approved for PM10 and PM2.5.",
   "document_type": "spec_sheet",
   "tags": [
     "dust monitoring",
@@ -9,14 +9,16 @@
     "real-time"
   ],
   "product_family": "Outdoor",
-  "product": "Dust Sentry",
+  "products": [
+    "Dust Sentry"
+  ],
   "sensor_family": "Sensor Module",
   "measurements": [
-    "PM1",
-    "PM2.5",
-    "PM4",
+    "TSP",
     "PM10",
-    "TSP"
+    "PM4",
+    "PM2.5",
+    "PM1"
   ],
   "file_version": "V6",
   "document_source": "Aeroqual",
